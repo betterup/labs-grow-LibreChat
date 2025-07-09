@@ -5,7 +5,7 @@ import SocialLoginRender from './SocialLoginRender';
 import { BlinkAnimation } from './BlinkAnimation';
 import { ThemeSelector } from '~/components';
 import { Banner } from '../Banners';
-import Footer from './Footer';
+
 
 function AuthLayout({
   children,
@@ -90,7 +90,6 @@ function AuthLayout({
             )}
         </div>
       </div>
-      <Footer startupConfig={startupConfig} />
     </div>
   );
 }
