@@ -29,6 +29,7 @@ interface:
     externalUrl: 'https://librechat.ai/tos'
     openNewTab: false
     modalAcceptance: false
+  
   endpointsMenu: true
   modelSelect: true
   parameters: false
@@ -52,7 +53,7 @@ interface:
 
 # Example Registration Object Structure (optional)
 registration:
-  socialLogins: ['google', 'facebook', 'apple']
+  socialLogins: []
   # allowedDomains:
   # - "gmail.com"
 
