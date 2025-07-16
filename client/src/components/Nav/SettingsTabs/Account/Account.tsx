@@ -29,9 +29,9 @@ function Account() {
           )}
         </>
       )}
-      <div className="pb-3">
+      {/* <div className="pb-3">
         <DeleteAccount />
-      </div>
+      </div> */}
     </div>
   );
 }
