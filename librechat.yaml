@@ -18,7 +18,7 @@ fileConfig:
 
 # Custom interface configuration
 interface:
-  customWelcome: "Welcome, {{user.name}}!"
+  customWelcome: "What can I help with?"
   # Privacy policy settings
   privacyPolicy:
     externalUrl: 'https://librechat.ai/privacy-policy'
@@ -33,7 +33,7 @@ interface:
   endpointsMenu: true
   modelSelect: true
   parameters: false
-  sidePanel: true
+  sidePanel: false
   presets: false
   prompts: false
   bookmarks: true

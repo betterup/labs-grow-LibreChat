@@ -203,7 +203,7 @@
   "com_endpoint_instructions_assistants_placeholder": "Überschreibt die Anweisungen des Assistenten. Dies ist nützlich, um das Verhalten auf Basis einzelner Ausführungen zu modifizieren.",
   "com_endpoint_max_output_tokens": "Max. Antwort-Token",
   "com_endpoint_message": "Nachricht an",
-  "com_endpoint_message_new": "Nachricht an {{0}}",
+  "com_endpoint_message_new": "Fragen Sie alles",
   "com_endpoint_message_not_appendable": "Bearbeite deine Nachricht oder generiere neu.",
   "com_endpoint_my_preset": "Meine Voreinstellung",
   "com_endpoint_no_presets": "Noch keine Voreinstellungen, verwende die KI-Einstellungsschaltfläche, um eine zu erstellen",
